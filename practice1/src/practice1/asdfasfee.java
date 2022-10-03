@@ -9,6 +9,7 @@ public class asdfasfee {
 		System.out.println(x);
 		int y = 175;
 		System.out.println(y);
+		System.out.println("asdf");
 	}
 
 }
